@@ -1,3 +1,3 @@
 # ImageCropNDrop
 
-## ![alt text](https://github.com/wendyconditions/ImageCropNDrop/img/sample.png "View of actual img cropper")
+## ![alt text](https://wendyconditions.github.io/ImageCropNDrop/img/sample.png "View of actual img cropper")
